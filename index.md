@@ -75,4 +75,4 @@ The filter by building status helps users explore data based on different buildi
 #### Resources
 
 - [The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)
-- [The Analysis](https://github.com/Tanvilakhani2112/Homework6.1/blob/main/Workbook.ipynb)
+- [The Analysis](https://github.com/Tanvilakhani2112/Homework6/blob/main/Workbook.ipynb)
